@@ -17,7 +17,7 @@
 
 **Тестируемая система:** Веб-версию “[КиноПоиск](https://www.kinopoisk.ru/)”
 
-**Подробнее читайте в**:[КиноПоиск]([https://github.com/Fedotu/-/blob/main/%D0%9A%D0%B8%D0%BD%D0%BE%D0%9F%D0%BE%D0%B8%D1%81%D0%BA.postman_test_run](https://github.com/Fedotu/Resume/blob/main/Kinopoisk.me))
+**Подробнее читайте в**:[КиноПоиск]([https://github.com/Fedotu/-/blob/main/%D0%9A%D0%B8%D0%BD%D0%BE%D0%9F%D0%BE%D0%B8%D1%81%D0%BA.postman_test_run](https://github.com/Fedotu/Resume/blob/main/Kinopoisk.me)
 
 
 ### **Проект «Основы тестирования.»**
